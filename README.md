@@ -59,3 +59,7 @@ A comprehensive SwiftUI application designed for monitoring and managing power c
 *   The app uses hardcoded device IDs (1 for Light, 2 for Washing Machine) for control via the AI Assistant and ThingSpeak updates.
 *   Ensure the necessary simulator runtime (e.g., iOS 18.0) is installed in Xcode if you encounter runtime availability errors.
 *   The SplineRuntime framework dependency was replaced with WebKit for displaying Spline scenes.
+
+## License and Usage
+
+This project is provided without any license. All rights are reserved by the author. You are not permitted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, or permit persons to whom the Software is furnished to do so, without explicit written permission from the author.
